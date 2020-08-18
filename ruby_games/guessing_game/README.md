@@ -1,6 +1,6 @@
 ## 🎯 Guessing Game 🎯
 
-[Read it in Portuguese | Leia em Português]()
+[Read in Portuguese | Leia em Português](https://github.com/molusca/Ruby/blob/master/ruby_games/guessing_game/README.pt.md)
 
 The game will choose a random integer number, your task is to guess it.
 

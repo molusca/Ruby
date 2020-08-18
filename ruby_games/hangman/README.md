@@ -1,6 +1,6 @@
 ## 😵 Hangman 😵
 
-[Read it in Portuguese | Leia em Português]()
+[Read in Portuguese | Leia em Português](https://github.com/molusca/Ruby/blob/master/ruby_games/README.pt.md)
 
 ### How to play:
 - The game will chose randomly one of the 10 secret words in `dicionario.txt` (you can change them locally if you want). Your task is to find the complete word!

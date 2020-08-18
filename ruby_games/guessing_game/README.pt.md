@@ -1,6 +1,6 @@
 ##  🎯 Jogo da Adivinhação 🎯
 
-[Read it in English | Leia em Inglês]()
+[Read in English | Leia em Inglês](https://github.com/molusca/Ruby/blob/master/ruby_games/guessing_game/README.md)
 
 O jogo escolherá um número inteiro aleatório e a sua tarefa é acertá-lo
 

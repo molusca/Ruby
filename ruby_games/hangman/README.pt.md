@@ -1,6 +1,6 @@
 ## 😵 Forca 😵
 
-[Read it in English | Leia em Inglês]()
+[Read in English | Leia em Inglês](https://github.com/molusca/Ruby/blob/master/ruby_games/README.md)
 
 ### Como Jogar:
 - O jogo irá escolher aleatóriamente uma das 10 palavras secretas do `dicionario.txt` (você pode mudá-las no arquivo se quiser). Sua tarefa é encontrar a palavra completa!

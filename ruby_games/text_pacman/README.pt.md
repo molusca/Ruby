@@ -1,6 +1,6 @@
 ## 👾 Text Pac-Man 👾
 
-[Read it in English | Leia em Inglês]()
+[Read in English | Leia em Inglês](https://github.com/molusca/Ruby/blob/master/ruby_games/text_pacman/README.md)
   
   Em cada partida o jogador irá escolher entre 3 dificuldades, que mudarão o tamanho do mapa.
 
