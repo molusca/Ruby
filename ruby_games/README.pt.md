@@ -1,6 +1,6 @@
 ## 🎮 Jogos em Ruby 🎮
 
-  [Read it in English | Leia em Inglês]()
+  [Read it in English | Leia em Inglês](https://github.com/molusca/Ruby/tree/master/ruby_games/README.md)
 
 ### Jogos:
   - [Jogo da Adivinhação 🎯](https://github.com/molusca/ruby_games/tree/master/Adivinhacao%20Ruby)
