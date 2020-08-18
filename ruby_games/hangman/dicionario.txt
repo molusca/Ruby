@@ -1,0 +1,10 @@
+diretorio
+iterador
+programador
+code smell
+algoritmo
+desenvolvedor
+refatorar
+software
+ruby
+function
